@@ -2,7 +2,7 @@
 
 Natural Language Processing is a way to help computers understand and process the human language.  The NLP libraries from python are powerful tools to grab a text and assign it a category.  There are many methods in doing this.
 
-The challenge I’ve always had when working in retail, was to understand what my customers thought about the store I ran.  Yes, its easy to look at a review and keep tabs on what people are saying about the business.  But when you're taking all this information from many sources, or you have a large data set, its just one more task that would eventually overload you and move you away from reaching goals.  I wanted to create a solution this using python and I felt like this would be a great idea for a project that would give me a quick glance at what my customers are pointing to.  If there was just one category that my customers are pointing to, life would be soo much easier!
+The challenge I’ve always had when working in retail, was to understand what my customers thought about the store I ran.  Yes, its easy to look at a review and keep tabs on what people are saying about the business.  But when you're taking all this information from many sources, or you have a large data set, its just one more task that would eventually overload you and move you away from reaching goals.  I wanted to create a solution this using python and I felt like this would be a great idea for a project that would give me a quick glance at what my customers are pointing to.
 
 You can grab the same data set <a href="https://www.kaggle.com/datasets/arushchillar/disneyland-reviews">here</a>.
 
