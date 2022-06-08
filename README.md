@@ -33,8 +33,10 @@ From our poor reviews, 10% of our clients had something positive to say.  And fr
 
 #### Where should we put our efforts in?
 
+##### From our negative scores in the ratings below 5 stars (the worst of the worst):
 Europe and Caribbean ranked highest in our location category.  The Caribbean attraction should be looked at.  HK Disney ranked highest with our organisation category.  Chances are they had a terrible experience here and should be investigated.
 
+##### From our positive scores in the ratings below 5 stars (the best in the worst):
 Alternatively, people loved Space Mountain from our location category which is Great news!.  Hong Kong Disney ranked highest as well in our organisation category, odd that they ranked highest in both positive and negative sentiments, it could be used as a comparison.  The good news is that it is spoken a lot of times in the reviews even though it’s had the least reviews which would mean that there is potential value in the Hong Kong amusement park.
 
 # Future Changes
