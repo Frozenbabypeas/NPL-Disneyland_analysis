@@ -1,12 +1,12 @@
 # NLP project
 
-Natural Language Processing is a way to help computers understand and process the human language.  I wanted to wrap my head around the libraries available and I thought of something I have wanted to do for a while now.
+Natural Language Processing is a way to help computers understand and process the human language.  The NLP libraries from python are powerful tools to grab a text and assign it a category.  There are many methods in doing this.
 
 The challenge I’ve always had when working in retail, was to understand what my customers thought about the store I ran.  It was easy to keep an eye out on google reviews and maintain client relationships one on one; but wouldn’t it be easier to focus on what customer were telling me need to improve or wish I had so they could spend more ?
 I wanted to identify this using python and I felt like this would be a great idea for a project that would give me a quick glance at what my customers are pointing to.
 You can grab the same data set <a href="https://www.kaggle.com/datasets/arushchillar/disneyland-reviews">here</a>.
 
-I have linked the GitHub link <a href="https://github.com/Frozenbabypeas/NPL-Disneyland_analysis">here</a>.
+For simplicity, I focused on the spaCy and text.blob libraries.  These libraries will help me idenitfy the words, tag then categorise them into thier sentiments.  My mission here is to learn more about the customer and understanding the category of the review will help solve our problem statement.
 
 # Problem statement:
 
@@ -34,10 +34,12 @@ From our poor reviews, 10% of our clients had something positive to say.  And fr
 ### Where should we put our efforts in?
 
 #### From our negative scores in the ratings below 5 stars (the worst of the worst):
-Europe and Caribbean ranked highest in our location category.  The Caribbean attraction should be looked at.  HK Disney ranked highest with our organisation category.  Chances are they had a terrible experience here and should be investigated.
+Europe and Caribbean ranked highest in our location category.  This analysis would suggest that the Caribbean attractions should be looked at.  HK Disney ranked highest with our organisation category.  Chances are they had a terrible experience here and should be investigated.
 
 #### From our positive scores in the ratings below 5 stars (the best in the worst):
-Alternatively, people loved Space Mountain from our location category which is Great news!.  Hong Kong Disney ranked highest as well in our organisation category, odd that they ranked highest in both positive and negative sentiments, it could be used as a comparison.  The good news is that it is spoken a lot of times in the reviews even though it’s had the least reviews which would mean that there is potential value in the Hong Kong amusement park.
+Alternatively, people loved Space Mountain from our location category which is Great news!.  Hong Kong Disney ranked highest as well in our organisation category, odd that they ranked highest in both positive and negative sentiments, it could be used as a comparison.  It's interesting to see Hong Kong written a lot of times in the reviews even though it’s had the least reviews.  This would mean that there is potential value in the Hong Kong amusement park.
+
+You can find the notebook at this <a href="https://github.com/Frozenbabypeas/NPL-Disneyland_analysis">GitHub link</a>.
 
 # Future Changes
 
