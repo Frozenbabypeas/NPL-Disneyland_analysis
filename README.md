@@ -6,7 +6,7 @@ The challenge I’ve always had when working in retail, was to understand what m
 
 You can grab the same data set <a href="https://www.kaggle.com/datasets/arushchillar/disneyland-reviews">here</a>.
 
-For simplicity, I focused on the spaCy and text.blob libraries.  These libraries will help me idenitfy the words, tag then categorise them into thier sentiments.  My mission here is to learn more about the customer and understanding the category of the review will help solve our problem statement.
+For simplicity, I focused on the spaCy and text.blob libraries.  These libraries will help me identify the words, tag then categorise them into their sentiments.  My mission here is to learn more about the customer and understanding the category of the review that will help solve our problem statement.
 
 # Problem statement:
 
